@@ -37,7 +37,6 @@
 		84A3C92927B0D068002BFA9F = {
 			isa = PBXGroup;
 			children = (
-				84A3C94327B0D99D002BFA9F /* MyModel.swift */,
 				84A3C93427B0D068002BFA9F /* LearningGithub */,
 				84A3C93327B0D068002BFA9F /* Products */,
 			);
@@ -54,6 +53,7 @@
 		84A3C93427B0D068002BFA9F /* LearningGithub */ = {
 			isa = PBXGroup;
 			children = (
+				84A3C94327B0D99D002BFA9F /* MyModel.swift */,
 				84A3C93527B0D068002BFA9F /* LearningGithubApp.swift */,
 				84A3C93727B0D068002BFA9F /* ContentView.swift */,
 				84A3C93927B0D069002BFA9F /* Assets.xcassets */,
